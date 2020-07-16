@@ -546,6 +546,9 @@ button {
 
 
 @media (max-width:767px){
+  
+  body {display: none;}
+  
 .top-menu-icon {
   display: block;
   position: absolute;
